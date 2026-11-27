@@ -83,7 +83,7 @@ CUDA. CPU fallback is supported by the underlying library.
 ## Quick Start
 
 ```bat
-git clone <your-fork-url> Inworld-Voice-Isolator
+git clone https://github.com/solai25/Inworld-Voice-isolator.git
 cd Inworld-Voice-Isolator
 
 python -m venv .venv
